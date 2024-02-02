@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://datalushq.com/wp-content/uploads/2022/07/icon_2.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Islam Hasib</h1>
 <h3 align="center">Undergraduate Computer & Control Engineer | Software Engineer | Student at ALX Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
