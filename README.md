@@ -1,4 +1,3 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*aOaoWxEL3DDDeTTi.gif)]
 <h1 align="center">Hi 👋, I'm Islam Hasib</h1>
 <h3 align="center">Undergraduate Computer & Control Engineer | Software Engineer | Student at ALX Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
