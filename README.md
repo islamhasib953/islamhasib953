@@ -10,9 +10,11 @@
   <a href="https://linkedin.com/in/islam-hasib">
     <img src="https://img.shields.io/badge/LinkedIn-Islam%20Hasib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:islamhasib953@gmail.com">
     <img src="https://img.shields.io/badge/Email-islamhasib953%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://github.com/islamhasib953">
     <img src="https://img.shields.io/badge/GitHub-islamhasib953-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -34,14 +36,13 @@
 ## 👨‍💻 About Me
 
 - 🎓 **Computer & Control Engineering Graduate** — Port Said University.
-- 📊 Working across **Data Engineering, Data Analytics, and Software Engineering**.
-- ⚙️ Building **ETL/ELT pipelines, Data Warehouses, Streaming Systems, REST APIs, and Full-Stack Applications**.
-- 🌊 Interested in **real-time data processing, distributed systems, cloud platforms, and analytics engineering**.
+- ⚙️ Focused on **Data Engineering, Software Engineering, and Data Analytics**.
+- 🌊 Building **batch & streaming data pipelines, data warehouses, APIs, backend systems, and analytics platforms**.
 - 💼 Former **Software Engineering Intern @ Sylndr**.
 - 👨‍🏫 Programming Instructor with experience teaching **Python and programming fundamentals**.
 - 🧠 Completed the **ALX Software Engineering Program**.
-- ☁️ Hands-on experience with **AWS, Snowflake, Docker, Apache Airflow, Kafka, Spark, and dbt**.
-- 📈 Experienced with **Power BI, DAX, Power Query, SQL, and business intelligence**.
+- ☁️ Hands-on experience with **AWS, Snowflake, Kafka, Spark, Airflow, dbt, Docker, and modern backend technologies**.
+- 📊 Experienced in **Power BI, SQL, DAX, Power Query, and business intelligence**.
 - 📫 Reach me at **islamhasib953@gmail.com**.
 
 <br clear="right"/>
@@ -50,70 +51,18 @@
 
 # 🚀 What I Do
 
-### ⚙️ Data Engineering
+⚙️ **Data Engineering** — Scalable ETL/ELT pipelines, real-time streaming, data warehouses, data lakes, and cloud data platforms.
 
-Designing and implementing scalable batch and real-time data platforms using:
+💻 **Software Engineering** — Backend systems, full-stack applications, REST APIs, microservices, IoT integrations, and real-time services.
 
-`Kafka` • `Spark` • `Airflow` • `dbt` • `Snowflake` • `AWS` • `PostgreSQL` • `MinIO`
-
-I work with:
-
-- ETL / ELT pipelines
-- Data Warehousing
-- Data Lakes
-- Streaming architectures
-- Lambda Architecture
-- Medallion Architecture
-- Data Modeling
-- Star Schema
-- Data Quality
-- Workflow Orchestration
-- Cloud Data Platforms
-
-### 💻 Software Engineering
-
-Building production-oriented backend and full-stack systems using:
-
-`Python` • `Node.js` • `Express.js` • `FastAPI` • `React` • `Next.js` • `MongoDB`
-
-Including:
-
-- REST APIs
-- Authentication & Authorization
-- JWT
-- WebSockets
-- Microservices
-- Real-time systems
-- SQL / NoSQL databases
-- IoT integrations
-- MQTT
-- Responsive web applications
-
-### 📊 Data Analytics & Business Intelligence
-
-Turning raw data into business insights using:
-
-`Power BI` • `DAX` • `Power Query` • `SQL` • `Excel` • `Python` • `Streamlit`
-
-Including:
-
-- KPI Design
-- Dashboard Development
-- Advanced SQL
-- Data Cleaning
-- Data Modeling
-- Business Intelligence
-- Exploratory Data Analysis
-- Operational Analytics
-- Workforce Analytics
-- Financial Analytics
+📊 **Data Analytics** — Advanced SQL, data modeling, KPI development, business intelligence, and interactive dashboards.
 
 ---
 
 # 🛠️ Technology Stack
 
 <details open>
-<summary><b>⚙️ Data Engineering & Analytics Engineering</b></summary>
+<summary><b>⚙️ Data Engineering</b></summary>
 
 <br/>
 
@@ -126,11 +75,16 @@ Including:
   <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
 </p>
 
-**Concepts**
-
-`ETL` `ELT` `Data Warehousing` `Data Lakes` `Data Modeling`
-`Star Schema` `Medallion Architecture` `Lambda Architecture`
-`Batch Processing` `Stream Processing` `Data Quality`
+`ETL / ELT`
+`Data Warehousing`
+`Data Lakes`
+`Data Modeling`
+`Star Schema`
+`Medallion Architecture`
+`Lambda Architecture`
+`Batch Processing`
+`Stream Processing`
+`Data Quality`
 
 </details>
 
@@ -158,7 +112,7 @@ Including:
 </details>
 
 <details open>
-<summary><b>💻 Programming & Backend Engineering</b></summary>
+<summary><b>💻 Programming & Backend</b></summary>
 
 <br/>
 
@@ -227,10 +181,15 @@ Including:
   <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
 </p>
 
-**Analytics Skills**
-
-`Power Query` `DAX` `Advanced SQL` `CTEs` `Window Functions`
-`Pivot Tables` `Data Modeling` `Dashboard Design` `Business Intelligence`
+`Power Query`
+`DAX`
+`Advanced SQL`
+`CTEs`
+`Window Functions`
+`Pivot Tables`
+`Data Modeling`
+`Dashboard Design`
+`Business Intelligence`
 
 </details>
 
@@ -257,76 +216,74 @@ Including:
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Real-Time E-Commerce Analytics Platform](https://github.com/islamhasib953/Ecommerce-analytics-platform)** | Production-oriented real-time analytics platform processing e-commerce events from ingestion to BI. | Kafka, Airflow, Snowflake, dbt, Redis, Streamlit, Docker |
-| **[RetailPulse Enterprise Data Platform](https://github.com/islamhasib953/RetailPulse-Enterprise-Data-Platform-EDP-)** | Hybrid Lambda Architecture combining real-time streaming and historical batch processing. | Kafka, Spark, Airflow, dbt, MinIO, PostgreSQL, Elasticsearch, Grafana |
-| **[Reddit Data Pipeline](https://github.com/islamhasib953/Reddit_Data_Pipeline)** | End-to-end Reddit ETL pipeline into an AWS-based analytics platform. | Python, Airflow, S3, Glue, Athena, Redshift |
-| **[dbt + Snowflake + Airflow](https://github.com/islamhasib953/dbt_snowflake_airflow)** | Automated analytics pipeline with modular dbt transformations and orchestration. | dbt, Snowflake, Airflow, Docker |
+| **[Real-Time E-Commerce Analytics Platform](https://github.com/islamhasib953/Ecommerce-analytics-platform)** | Real-time e-commerce analytics platform from event ingestion to analytics-ready data and dashboards. | Kafka, Airflow, Snowflake, dbt, Redis, Streamlit, Docker |
+| **[RetailPulse Enterprise Data Platform](https://github.com/islamhasib953/RetailPulse-Enterprise-Data-Platform-EDP-)** | Lambda architecture combining real-time streaming and historical batch processing. | Kafka, Spark, Airflow, dbt, MinIO, PostgreSQL, Elasticsearch, Grafana |
+| **[Reddit Data Pipeline](https://github.com/islamhasib953/Reddit_Data_Pipeline)** | End-to-end Reddit ETL pipeline into an AWS analytics platform. | Python, Airflow, S3, Glue, Athena, Redshift |
+| **[dbt + Snowflake + Airflow](https://github.com/islamhasib953/dbt_snowflake_airflow)** | Automated analytics pipeline with modular transformations and orchestration. | dbt, Snowflake, Airflow, Docker |
 
 ## 📊 Data Analytics
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Logistics Operations Analytics](https://github.com/islamhasib953/Logistics-Operations-PowerBI)** | End-to-end logistics BI solution analyzing revenue, fleet utilization, safety and operational performance. | Power BI, Power Query, DAX, Data Modeling |
-| **[HR Analytics Dashboard](https://github.com/islamhasib953/HR-Analytics-Dashboard)** | Interactive workforce analytics solution focused on attrition, employee demographics and satisfaction. | Power BI, DAX, Power Query |
-| **[Bank Data Analysis](https://github.com/islamhasib953/bank_Data_Analysis)** | Financial data analysis and KPI reporting for banking datasets. | SQL, Excel, Data Analysis |
+| **[Logistics Operations Analytics](https://github.com/islamhasib953/Logistics-Operations-PowerBI)** | Logistics BI solution covering revenue, fleet utilization, safety, drivers, and operations. | Power BI, Power Query, DAX, Data Modeling |
+| **[HR Analytics Dashboard](https://github.com/islamhasib953/HR-Analytics-Dashboard)** | Workforce analytics dashboard focused on employee attrition and HR performance. | Power BI, DAX, Power Query |
+| **[Bank Data Analysis](https://github.com/islamhasib953/bank_Data_Analysis)** | Financial analytics and KPI reporting for banking datasets. | SQL, Excel, Data Analysis |
 
 ## 💻 Software Engineering
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Sigma / SmartBrace](https://github.com/islamhasib953/Graduation_Project)** | Real-time pediatric healthcare monitoring ecosystem integrating IoT, mobile, web and cloud backend services. | React, Flutter, Node.js, FastAPI, MongoDB, AWS, MQTT |
+| **[Sigma / SmartBrace](https://github.com/islamhasib953/Graduation_Project)** | Pediatric healthcare monitoring ecosystem combining IoT, mobile, web, backend, and cloud services. | React, Flutter, Node.js, FastAPI, MongoDB, AWS, MQTT |
 | **[Courses Platform Backend](https://github.com/islamhasib953/Courses_platform_Backend)** | Backend foundation for a learning management platform. | Node.js, REST APIs, MongoDB |
-| **[AirBnB Clone](https://github.com/islamhasib953/AirBnB_clone)** | Full-stack project built during ALX Software Engineering training. | Python, Flask, MySQL |
+| **[AirBnB Clone](https://github.com/islamhasib953/AirBnB_clone)** | Full-stack software engineering project developed during ALX training. | Python, Flask, MySQL |
 
 ---
 
 # 📈 GitHub Activity
 
+<div align="center">
+
 [![Islam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=islamhasib953&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
 # 📊 GitHub Statistics
 
-<!--
-To enable the two cards below:
-Create your own jstrieb/github-stats repository named "github-stats"
-and generate the "generated" branch.
--->
-
 <div align="center">
 
-<a href="https://github.com/islamhasib953/github-stats">
-  <img
-    src="https://github.com/islamhasib953/github-stats/blob/generated/overview.svg#gh-dark-mode-only"
-    width="49%"
-    alt="GitHub Statistics"
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/islamhasib953/islamhasib953/generated/overview.svg#gh-dark-mode-only"
   />
-</a>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/islamhasib953/islamhasib953/generated/overview.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/islamhasib953/islamhasib953/generated/overview.svg"
+    width="48%"
+    alt="Islam Hasib GitHub Statistics"
+  />
+</picture>
 
-<a href="https://github.com/islamhasib953/github-stats">
-  <img
-    src="https://github.com/islamhasib953/github-stats/blob/generated/languages.svg#gh-dark-mode-only"
-    width="49%"
-    alt="Languages Used"
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/islamhasib953/islamhasib953/generated/languages.svg#gh-dark-mode-only"
   />
-</a>
-
-<a href="https://github.com/islamhasib953/github-stats">
-  <img
-    src="https://github.com/islamhasib953/github-stats/blob/generated/overview.svg#gh-light-mode-only"
-    width="49%"
-    alt="GitHub Statistics"
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/islamhasib953/islamhasib953/generated/languages.svg"
   />
-</a>
-
-<a href="https://github.com/islamhasib953/github-stats">
   <img
-    src="https://github.com/islamhasib953/github-stats/blob/generated/languages.svg#gh-light-mode-only"
-    width="49%"
-    alt="Languages Used"
+    src="https://raw.githubusercontent.com/islamhasib953/islamhasib953/generated/languages.svg"
+    width="48%"
+    alt="Islam Hasib Languages Used"
   />
-</a>
+</picture>
 
 </div>
 
@@ -341,12 +298,14 @@ and generate the "generated" branch.
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/islamhasib953/islamhasib953/output/github-contribution-grid-snake-dark.svg"
   />
+
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/islamhasib953/islamhasib953/output/github-contribution-grid-snake.svg"
   />
+
   <img
-    alt="GitHub contribution snake animation"
+    alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/islamhasib953/islamhasib953/output/github-contribution-grid-snake.svg"
   />
 </picture>
@@ -357,43 +316,45 @@ and generate the "generated" branch.
 
 # 🎓 Education
 
-**Bachelor of Engineering — Computer & Control Engineering**
+### Bachelor of Engineering — Computer & Control Engineering
 
-Port Said University  
+**Port Said University**
+
 **Grade:** Very Good — 79.5%
 
-Relevant areas:
-
-`Database Systems` • `Distributed Systems` • `Algorithms`
-• `Data Structures` • `Object-Oriented Programming`
+`Database Systems`
+`Distributed Systems`
+`Algorithms`
+`Data Structures`
+`Object-Oriented Programming`
 
 ---
 
-# 💼 Experience Highlights
+# 💼 Experience
 
 ### Software Engineering Intern — Sylndr
 
-- Built production-facing modules for a C2C automotive marketplace.
-- Developed frontend functionality using Next.js.
-- Integrated REST APIs and dynamic routes.
+- Developed production-facing modules for a C2C automotive marketplace.
+- Built frontend functionality using Next.js.
+- Integrated REST APIs and dynamic routing.
 - Worked with reusable component architecture and Figma-based designs.
 
 ### Programming Instructor — Schoola
 
-- Teaching programming fundamentals and Python.
+- Teaching Python and programming fundamentals.
 - Mentoring students in computational thinking and problem solving.
-- Performing code reviews and progress evaluation.
+- Providing code reviews and progress evaluations.
 
 ### ALX Software Engineering
 
-- Full-stack software engineering.
-- C and Python programming.
+- Full-Stack Software Engineering.
+- C and Python.
 - Data Structures & Algorithms.
-- Linux and systems programming.
-- Backend development.
+- Linux and Systems Programming.
+- Backend Development.
 - Databases.
 - REST APIs.
-- Git and collaborative development.
+- Git & GitHub workflows.
 
 ---
 
