@@ -1,1 +1,148 @@
+name: Generate GitHub Stats
 
+on:
+  schedule:
+    - cron: "15 0 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-stats:
+    name: Generate Profile Statistics
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+
+      # -------------------------------------------------------
+      # 1. Checkout the profile repository
+      # -------------------------------------------------------
+
+      - name: Checkout Profile Repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      # -------------------------------------------------------
+      # 2. Download jstrieb/github-stats temporarily
+      # -------------------------------------------------------
+
+      - name: Checkout GitHub Stats Generator
+        uses: actions/checkout@v6
+        with:
+          repository: jstrieb/github-stats
+          ref: master
+          path: github-stats-src
+
+      # -------------------------------------------------------
+      # 3. Install Zig
+      # -------------------------------------------------------
+
+      - name: Setup Zig
+        uses: mlugg/setup-zig@d1434d08867e3ee9daa34448df10607b98908d29
+        with:
+          version: 0.16.0
+
+      # -------------------------------------------------------
+      # 4. Build github-stats
+      # -------------------------------------------------------
+
+      - name: Build GitHub Stats
+        working-directory: github-stats-src
+        run: |
+          zig build
+
+      # -------------------------------------------------------
+      # 5. Generate overview.svg + languages.svg
+      # -------------------------------------------------------
+
+      - name: Generate Statistics
+        working-directory: github-stats-src
+        run: |
+          ./zig-out/bin/github-stats
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+
+          EXCLUDE_REPOS: ${{ secrets.EXCLUDE_REPOS }}
+          EXCLUDE_LANGS: ${{ secrets.EXCLUDE_LANGS }}
+
+          EXCLUDE_PRIVATE: "false"
+
+          SILENT: "true"
+
+          MAX_RETRIES: "5"
+
+      # -------------------------------------------------------
+      # 6. Store generated SVG files temporarily
+      # -------------------------------------------------------
+
+      - name: Store Generated Files
+        run: |
+          mkdir -p /tmp/github-profile-stats
+
+          cp github-stats-src/overview.svg \
+             /tmp/github-profile-stats/overview.svg
+
+          cp github-stats-src/languages.svg \
+             /tmp/github-profile-stats/languages.svg
+
+          echo "Generated files:"
+          ls -lah /tmp/github-profile-stats
+
+      # -------------------------------------------------------
+      # 7. Publish files to generated branch
+      # -------------------------------------------------------
+
+      - name: Publish Statistics
+        run: |
+
+          git config user.name "github-actions[bot]"
+
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Check whether generated branch already exists
+          if git ls-remote \
+            --exit-code \
+            --heads origin generated > /dev/null 2>&1
+          then
+
+            echo "generated branch already exists"
+
+            git fetch origin generated
+
+            git checkout -B generated origin/generated
+
+          else
+
+            echo "Creating generated branch"
+
+            git checkout --orphan generated
+
+            git rm -rf . || true
+
+          fi
+
+          # Remove everything except the generated files
+          git rm -rf . || true
+
+          cp /tmp/github-profile-stats/overview.svg \
+             ./overview.svg
+
+          cp /tmp/github-profile-stats/languages.svg \
+             ./languages.svg
+
+          git add overview.svg languages.svg
+
+          git status
+
+          git commit \
+            -m "chore: update GitHub profile statistics" \
+            || echo "No statistics changes detected"
+
+          git push \
+            --set-upstream \
+            origin generated
