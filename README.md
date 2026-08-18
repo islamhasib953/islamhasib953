@@ -132,7 +132,7 @@
 </p>
 
 </details>
-
+<!--
 <details open>
 <summary><b>🌐 Frontend & Mobile</b></summary>
 
@@ -147,7 +147,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
-
+-->
 </details>
 
 <details open>
@@ -209,7 +209,7 @@
 </details>
 
 ---
-
+<!--
 # 🏆 Featured Projects
 
 ## ⚙️ Data Engineering
@@ -238,7 +238,7 @@
 | **[AirBnB Clone](https://github.com/islamhasib953/AirBnB_clone)** | Full-stack software engineering project developed during ALX training. | Python, Flask, MySQL |
 
 ---
-
+-->
 # 📈 GitHub Activity
 
 <div align="center">
@@ -329,7 +329,7 @@
 `Object-Oriented Programming`
 
 ---
-
+<!--
 # 💼 Experience
 
 ### Software Engineering Intern — Sylndr
@@ -357,7 +357,7 @@
 - Git & GitHub workflows.
 
 ---
-
+-->
 # 🤝 Connect With Me
 
 <div align="center">
@@ -370,9 +370,9 @@
   <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/islam_hasib1">
+<!-- <a href="https://twitter.com/islam_hasib1">
   <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
+</a> -->
 
 <a href="https://codeforces.com/profile/islamhasib15">
   <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
