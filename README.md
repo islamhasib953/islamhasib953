@@ -1,66 +1,82 @@
-<h1 align="center">Hi 👋, I'm Islam Hasib</h1>
-<h3 align="center">Data Engineer | Software Engineer | Data Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=islamhasib953&label=Profile%20views&color=0e75b6&style=flat" alt="islamhasib953" /> 
-  <a href="https://twitter.com/islam_hasib1" target="blank"><img src="https://img.shields.io/twitter/follow/islam_hasib1?logo=twitter&style=for-the-badge" alt="islam_hasib1" /></a> 
-</p>
-
-### 🚀 About Me
-- 🎓 I recently graduated with a Bachelor of Engineering in Computer and Control Engineering from Port Said University.
-- 💼 I have a strong foundation in building automated data pipelines, ETL/ELT processes, and scalable full-stack web applications.
-- 🔭 I’m currently working on end-to-end data systems utilizing Lambda and Medallion Architectures, as well as full-stack applications like comprehensive E-Learning platforms.
-- 🌱 I’m currently exploring advanced distributed systems, cloud data warehousing, and real-time streaming pipelines.
-- 💬 Ask me about **Data Engineering (Kafka, Airflow, dbt, Snowflake), Software Engineering (React, Node.js, Next.js, Python), and Data Analytics (Power BI, Advanced SQL)**.
-- 📫 How to reach me: **islamhasib953@gmail.com**.
-- ⚡ Fun fact: I enjoy simplifying complex logical concepts, having mentored children and beginners in programming and logic building as an instructor.
-
-### 🏆 Featured Experience & Domain Expertise
-- ⚙️ **Data Engineering & Architecture:** Architected scalable enterprise data platforms using Apache Kafka, Airflow, dbt, and Medallion architecture principles. Developed automated ETL workflows integrating data into AWS (Glue, Athena, Redshift) and Snowflake.
-- 💻 **Software Engineering:** Engineered high-traffic frontend modules for a C2C marketplace at Sylndr using Next.js. Built "Sigma", a real-time IoT smart baby healthcare system with Node.js, FastAPI, MongoDB, and WebSocket integration.
-- 📊 **Data Analytics & BI:** Modeled relational databases into Star Schemas and built interactive Power BI dashboards with complex DAX measures for HR and Logistics analytics. Analyzed large-scale credit portfolios using Advanced SQL (CTEs, Window Functions).
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/islam-hasib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="islam-hasib" height="30" width="40" /></a>
-<a href="https://twitter.com/islam_hasib1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="islam_hasib1" height="30" width="40" /></a>
-<a href="https://fb.com/islam.hasib.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="islam.hasib.14" height="30" width="40" /></a>
-<a href="https://instagram.com/islam.hasib.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="islam.hasib.14" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/islamhasib15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="islamhasib15" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/islamha5b2s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="islamha5b2s" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Programming Languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<div align="center">
+  <h1>Hi 👋, I'm Islam Hasib</h1>
+  <h3>Data Engineer | Software Engineer</h3>
+  <p>Building scalable data pipelines & distributed systems.</p>
   
-  <!-- Data Engineering & Cloud -->
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <p>
+    <a href="https://linkedin.com/in/islam-hasib" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/islamhasib953" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:islamhasib953@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
-  <!-- Software Engineering (Backend & Frontend) -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
+<br/>
 
-  <!-- Databases -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-</p>
+## 🚀 Quick About Me
 
-<br>
+* 🎓 **Background:** Computer & Control Engineering Graduate (Port Said University).
+* ⚙️ **Focus:** Architecting end-to-end data systems (Lambda/Medallion Architectures) and building scalable full-stack web applications.
+* 🛠️ **Current Work:** Developing enterprise data platforms, real-time streaming pipelines, and comprehensive E-Learning systems.
+* ⚡ **Fun Fact:** I love simplifying complex logical concepts and mentoring beginners in programming.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=islamhasib953&show_icons=true&locale=en&layout=compact" alt="islamhasib953" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islamhasib953&show_icons=true&locale=en" alt="islamhasib953" /></p>
+## 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islamhasib953&" alt="islamhasib953" /></p>
+<div align="center">
+  
+  **Data Engineering & Cloud** <br/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+
+  <br/><br/>
+  
+  **Software Engineering** <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+
+  <br/><br/>
+
+  **Databases & Analytics** <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  
+</div>
+
+<br/>
+
+## 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[RetailPulse Data Platform](https://github.com/islamhasib953/RetailPulse)** | Scalable Lambda Architecture merging real-time streaming and batch pipelines following Medallion principles. | Kafka, Spark, Airflow, dbt, Postgre |
+| **[Sigma - Smart Healthcare](https://github.com/islamhasib953/Sigma)** | Real-time IoT data streaming pipeline utilizing MQTT to ingest high-frequency sensor data. | Node.js, FastAPI, MongoDB, AWS EC2 |
+| **[Reddit ETL Pipeline](https://github.com/islamhasib953)** | End-to-end ETL pipeline extracting data from Reddit API and loading into AWS S3 Data Lake. | Python, Airflow, AWS (Glue, Athena) |
+
+<br/>
+
+## 📈 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=islamhasib953&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamhasib953&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6" alt="Top Languages" width="48%" />
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=islamhasib953&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
