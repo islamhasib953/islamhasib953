@@ -8,18 +8,18 @@
 </p>
 
 ### 🚀 About Me
-- 🎓 I recently graduated with a Bachelor of Engineering in Computer and Control Engineering from Port Said University[cite: 2, 3, 4].
-- 💼 I have a strong foundation in building automated data pipelines, ETL/ELT processes, and scalable full-stack web applications[cite: 2, 3, 4].
-- 🔭 I’m currently working on end-to-end data systems utilizing Lambda and Medallion Architectures[cite: 2, 3], as well as full-stack applications like comprehensive E-Learning platforms[cite: 4].
-- 🌱 I’m currently exploring advanced distributed systems, cloud data warehousing, and real-time streaming pipelines[cite: 3].
-- 💬 Ask me about **Data Engineering (Kafka, Airflow, dbt, Snowflake), Software Engineering (React, Node.js, Next.js, Python), and Data Analytics (Power BI, Advanced SQL)**[cite: 2, 3, 4].
-- 📫 How to reach me: **islamhasib953@gmail.com**[cite: 2, 3, 4].
-- ⚡ Fun fact: I enjoy simplifying complex logical concepts, having mentored children and beginners in programming and logic building as an instructor[cite: 2, 4].
+- 🎓 I recently graduated with a Bachelor of Engineering in Computer and Control Engineering from Port Said University.
+- 💼 I have a strong foundation in building automated data pipelines, ETL/ELT processes, and scalable full-stack web applications.
+- 🔭 I’m currently working on end-to-end data systems utilizing Lambda and Medallion Architectures, as well as full-stack applications like comprehensive E-Learning platforms.
+- 🌱 I’m currently exploring advanced distributed systems, cloud data warehousing, and real-time streaming pipelines.
+- 💬 Ask me about **Data Engineering (Kafka, Airflow, dbt, Snowflake), Software Engineering (React, Node.js, Next.js, Python), and Data Analytics (Power BI, Advanced SQL)**.
+- 📫 How to reach me: **islamhasib953@gmail.com**.
+- ⚡ Fun fact: I enjoy simplifying complex logical concepts, having mentored children and beginners in programming and logic building as an instructor.
 
 ### 🏆 Featured Experience & Domain Expertise
-- ⚙️ **Data Engineering & Architecture:** Architected scalable enterprise data platforms using Apache Kafka, Airflow, dbt, and Medallion architecture principles[cite: 2, 3]. Developed automated ETL workflows integrating data into AWS (Glue, Athena, Redshift) and Snowflake[cite: 3].
-- 💻 **Software Engineering:** Engineered high-traffic frontend modules for a C2C marketplace at Sylndr using Next.js[cite: 2, 3, 4]. Built "Sigma", a real-time IoT smart baby healthcare system with Node.js, FastAPI, MongoDB, and WebSocket integration[cite: 3, 4].
-- 📊 **Data Analytics & BI:** Modeled relational databases into Star Schemas and built interactive Power BI dashboards with complex DAX measures for HR and Logistics analytics[cite: 2]. Analyzed large-scale credit portfolios using Advanced SQL (CTEs, Window Functions)[cite: 2].
+- ⚙️ **Data Engineering & Architecture:** Architected scalable enterprise data platforms using Apache Kafka, Airflow, dbt, and Medallion architecture principles. Developed automated ETL workflows integrating data into AWS (Glue, Athena, Redshift) and Snowflake.
+- 💻 **Software Engineering:** Engineered high-traffic frontend modules for a C2C marketplace at Sylndr using Next.js. Built "Sigma", a real-time IoT smart baby healthcare system with Node.js, FastAPI, MongoDB, and WebSocket integration.
+- 📊 **Data Analytics & BI:** Modeled relational databases into Star Schemas and built interactive Power BI dashboards with complex DAX measures for HR and Logistics analytics. Analyzed large-scale credit portfolios using Advanced SQL (CTEs, Window Functions).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
