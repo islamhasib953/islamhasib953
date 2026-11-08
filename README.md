@@ -239,7 +239,7 @@
 
 ---
 -->
-# 📈 GitHub Activity
+<!--# 📈 GitHub Activity
 
 <div align="center">
 
@@ -248,6 +248,7 @@
 </div>
 
 ---
+-->
 
 # 📊 GitHub Statistics
 
