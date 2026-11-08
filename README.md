@@ -243,7 +243,7 @@
 
 <div align="center">
 
-[![Islam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=islamhasib953&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Islam's GitHub Activity](https://ghchart.rshah.org/islamhasib953)
 
 </div>
 
